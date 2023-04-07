@@ -39,3 +39,35 @@ Repository: https://github.com/akbarmridho/Algeo01-21074
 Topik: face recognition dengan metode eigenface
 
 Repository: https://github.com/Mehmed13/Algeo02-21044
+
+## Semester 4
+
+- IF2110 Pemrograman Berorientasi Objek, Tubes 1
+
+Topik: Game candy
+
+Repository: https://github.com/akbarmridho/MZC_Opsional
+
+- IF2211 Strategi Algoritma, Tucil 1
+
+Topik: Brute force Game 24
+
+Repository: https://github.com/akbarmridho/Tucil1_13521093
+
+- IF2211 Strategi Algoritma, Tubes 1
+
+Topik: Bot game galaxio dengan pendekatan Greedy
+
+Repository: https://github.com/akbarmridho/Tubes1_.jar
+
+- IF2211 Strategi Algoritma, Tucil 2
+
+Topik: Closest pair problem dimensi n dengan divide concuer dan brute force
+
+Repository: https://github.com/akbarmridho/Tucil2_13521093_13521129
+
+- IF2211 Strategi Algoritma, Tubes 2
+
+Topik: Maze solver dengan pendekatan BFS dan DFS
+
+Repository: https://github.com/akbarmridho/Tubes2_mrKrrabs
