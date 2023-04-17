@@ -1,4 +1,20 @@
-# Koleksi Tubes
+# Koleksi 
+
+## Semester 1
+
+- KU1102 Pengenalan Komputasi
+
+Topik: Mesin jaja otomatis
+
+Repository: https://github.com/akbarmridho/tubes-pengkom
+
+## Semester 2
+
+- IF1210 Dasar Pemrograman
+
+Topik: BNMO
+
+Repository: https://github.com/akbarmridho/tubes-binomo
 
 ## Semester 3
 
@@ -71,3 +87,9 @@ Repository: https://github.com/akbarmridho/Tucil2_13521093_13521129
 Topik: Maze solver dengan pendekatan BFS dan DFS
 
 Repository: https://github.com/akbarmridho/Tubes2_mrKrrabs
+
+- IF2211 Strategi Algoritma, Tucil 3
+
+Topik: Shortest path problem dengan algoritma UCS dan A*
+
+Repository: https://github.com/arsaizdihar/Tucil3_13521093_13521101
