@@ -93,3 +93,27 @@ Repository: https://github.com/akbarmridho/Tubes2_mrKrrabs
 Topik: Shortest path problem dengan algoritma UCS dan A*
 
 Repository: https://github.com/arsaizdihar/Tucil3_13521093_13521101
+
+- IF2211 Strategi Algoritma, Tubes 3
+
+Topik: String matching dengan Algoritma KMP/BM dan string similarity dengan levenshtein distance
+
+Repository: https://github.com/akbarmridho/Tubes3_bangudahbang
+
+- IF2210 Pemrograman Berorientasi Objek, Tubes 2
+
+Topik: Aplikasi point of sales
+
+Repository: https://github.com/arsaizdihar/IF2210_TB2_MZC
+
+- IF2240 Basis Data
+
+Topik: Desain Skema Database Pemberi Beasiswa
+
+Repository: https://github.com/akbarmridho/Milestone02_Case02_K01_14
+
+- IF2230 Sistem Operasi
+
+Topik: Sistem Operasi x86
+
+Repository: https://github.com/akbarmridho/if2230-2023-keos
