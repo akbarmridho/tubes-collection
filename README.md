@@ -117,3 +117,57 @@ Repository: https://github.com/akbarmridho/Milestone02_Case02_K01_14
 Topik: Sistem Operasi x86
 
 Repository: https://github.com/akbarmridho/if2230-2023-keos
+
+## Semester 5
+
+- IF3130 Jaringan Komputer
+
+Topik: File transfer with TCP abstraction over UDP
+
+Repository: https://github.com/akbarmridho/tugas-besar-if3130-jaringan-komputer-j-nya-jarkom
+
+- IF3140 Manajemen Basis Data
+
+Topik: (subtopik) simulasi concurrency control algorithm
+
+Repository: https://github.com/NerbFox/Tubes-MBD
+
+- IF3141 Sistem Informasi
+
+Ugh, dokumen
+
+- IF3150 Manajemen Proyek Perangkat Lunak
+
+Dokumen :(
+
+- IF3151 Interaksi Manusia Komputer
+
+Dokumen T_T
+
+- IF3170 Intelejensi Buatan, Tubes 1
+
+Topik: Adversarial Adjacency Game
+
+Repository: https://github.com/Fatih20/Tubes1
+
+- IF3170 Intelejensi Buatan, Tubes 2
+
+Topik: Implementasi algoritma KNN dan Naive Bayes
+
+Repository: https://github.com/alishalistyaa/IF3170-Tubes-2-AI
+
+- IF3310 Pengembangan Aplikasi Berasis Web (2 milestone)
+
+Topik: website terintegrasi
+
+Repository:
+1. https://github.com/akbarmridho/IF3310-wbd-spa
+2. https://github.com/akbarmridho/IF3310-wbd-monolith
+3. https://github.com/akbarmridho/IF3310-wbd-rest
+4. https://github.com/akbarmridho/if3310-wbd-soap
+
+- IF4031 Pengembangan Aplikasi Terdistribusi
+
+Topik: Aplikasi ticketing terdistribusi
+
+Repository: https://github.com/akbarmridho/pat-microservices
