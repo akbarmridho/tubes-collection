@@ -171,3 +171,43 @@ Repository:
 Topik: Aplikasi ticketing terdistribusi
 
 Repository: https://github.com/akbarmridho/pat-microservices
+
+## Semester 6
+
+- IF3210 Platform-Based Application Development, Tubes 1 Android
+
+Repository: https://github.com/akbarmridho/if3210-2024-android-ppr
+
+- IF3210 Platform-Based Application Development, Tubes 2 Unity
+
+Repository: https://github.com/akbarmridho/if3210-2024-unity-011
+
+- IF3230 Sistem Parallel dan Terdistribusi, Tugas Kecil
+
+Repository: https://github.com/akbarmridho/if3230-tucil-nvcc
+  
+- IF3230 Sistem Parallel dan Terdistribusi, Tugas Besar
+
+Topik: Raft Implementation
+
+Repository: https://github.com/akbarmridho/if3230-tubes-wreckitraft
+  
+- IF3250 Proyek Perangkat Lunak
+
+Classified
+
+- IF3260 Grafika Komputer, Tugas Besar 1
+
+Repository: https://github.com/akbarmridho/tugas-besar-grafkom-1-eight
+
+- IF3260 Grafika Komputer, Tugas Besar 2
+
+Repository: https://github.com/akbarmridho/tugas-besar-grafkom-2-capek
+
+- IF3270 Pembelajaran Mesin, Tugas Besar
+
+Repository: https://github.com/akbarmridho/if3270-pembelajaran-mesin
+
+- IF3280 Sosio-Informatika dan Profesionalisme
+
+Tidak ada
