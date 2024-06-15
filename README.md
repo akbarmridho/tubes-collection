@@ -22,7 +22,7 @@ Repository: https://github.com/akbarmridho/tubes-binomo
 
 Topik: permainan monopoli
 
-Repository: https://github.com/GAIB20/tugas-besar-logika-komputasional-2022-eksplor_sendiri
+Repository: [https://github.com/GAIB20/tugas-besar-logika-komputasional-2022-eksplor_sendiri](https://github.com/akbarmridho/tugas-besar-logika-komputasional-2022-eksplor_sendiri)
 
 - IF2110 Algoritma dan Struktur Data
 
@@ -54,7 +54,7 @@ Repository: https://github.com/akbarmridho/Algeo01-21074
 
 Topik: face recognition dengan metode eigenface
 
-Repository: https://github.com/Mehmed13/Algeo02-21044
+Repository: [https://github.com/Mehmed13/Algeo02-21044](https://github.com/akbarmridho/Algeo02-21044)
 
 ## Semester 4
 
@@ -92,7 +92,7 @@ Repository: https://github.com/akbarmridho/Tubes2_mrKrrabs
 
 Topik: Shortest path problem dengan algoritma UCS dan A*
 
-Repository: https://github.com/arsaizdihar/Tucil3_13521093_13521101
+Repository: [https://github.com/arsaizdihar/Tucil3_13521093_13521101](https://github.com/akbarmridho/Tucil3_13521093_13521101)
 
 - IF2211 Strategi Algoritma, Tubes 3
 
@@ -104,7 +104,7 @@ Repository: https://github.com/akbarmridho/Tubes3_bangudahbang
 
 Topik: Aplikasi point of sales
 
-Repository: https://github.com/arsaizdihar/IF2210_TB2_MZC
+Repository: [https://github.com/arsaizdihar/IF2210_TB2_MZC](https://github.com/akbarmridho/IF2210_TB2_MZC/)
 
 - IF2240 Basis Data
 
@@ -148,13 +148,13 @@ Dokumen T_T
 
 Topik: Adversarial Adjacency Game
 
-Repository: https://github.com/Fatih20/Tubes1
+Repository: [https://github.com/Fatih20/Tubes1](https://github.com/akbarmridho/Tubes1)
 
 - IF3170 Intelejensi Buatan, Tubes 2
 
 Topik: Implementasi algoritma KNN dan Naive Bayes
 
-Repository: https://github.com/alishalistyaa/IF3170-Tubes-2-AI
+Repository: [https://github.com/akbarmridho/naive-bayes-knn-exploration](https://github.com/akbarmridho/naive-bayes-knn-exploration)
 
 - IF3310 Pengembangan Aplikasi Berasis Web (2 milestone)
 
